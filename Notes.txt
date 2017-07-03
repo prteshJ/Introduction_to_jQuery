@@ -5,7 +5,7 @@ My understanding of a callback:
 Callback means to call a function or execute code asynchronously when a response is received.
 
 DOM mamipulation such as adding, removing DOM nodes dynamically using
-jQuery.
+jQuery as well as other cool jQuery methods for interacting with DOM.
 
 Learned about Event Handling, Event Delegation using jQuery and also,
 jQuery's convenience methods for browser events via documentation.
